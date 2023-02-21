@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tictactoe-deploy/static/css/main.511593ad.css",
+    "main.js": "/react-tictactoe-deploy/static/js/main.67914c58.js",
+    "index.html": "/react-tictactoe-deploy/index.html",
+    "main.511593ad.css.map": "/react-tictactoe-deploy/static/css/main.511593ad.css.map",
+    "main.67914c58.js.map": "/react-tictactoe-deploy/static/js/main.67914c58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.511593ad.css",
+    "static/js/main.67914c58.js"
+  ]
+}
